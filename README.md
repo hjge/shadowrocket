@@ -41,7 +41,7 @@ PHP 7.2 +
 }
 ```
 
-授权码需要联系<a href="https://t.me/jiakefu1">@jiakefu1</a>购买
+授权码需要联系<a href="https://t.me/jiakefu1">@jiakefu1</a>购买, 39 USDT/年
 
 ## youtube演示教程
 
