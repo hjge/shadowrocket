@@ -6,7 +6,10 @@ iOS小火箭（shadowrocket）免费共享美区账号验证码登录下载教�
 致力于免费分享iOS国外美区/香港/日本Apple ID已购小火箭（shadowrocket）账号分享及其下载教程。
 
 
-
+最新官网分享的appleid密码为
+```
+Shadowrocket.top520
+```
 
 
 ## 效果展示
